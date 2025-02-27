@@ -109,6 +109,10 @@ If you're running on a CPU-only system:
 
 Note: The application will run slower on CPU-only systems, but it will still work effectively.
 
+
+## Vote of Thanks
+Many thanks to [Washington Kimani](https://github.com/Washington-Kimani) for the breathtaking contribution towards the success of this project. I owe you a cup of coffee.
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
